@@ -7,7 +7,7 @@ print(db)
 
 d = {
     "name":"Praveen",
-    "email" : "sudhanshu@ineuron.ai",
+    "email" : "Praveen.g@gmail",
     "surname" : "kumar"
 }
 db1 = client['mongotest']
